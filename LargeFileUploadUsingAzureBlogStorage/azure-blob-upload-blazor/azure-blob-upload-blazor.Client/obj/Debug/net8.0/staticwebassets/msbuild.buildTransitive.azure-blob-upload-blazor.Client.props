@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\azure-blob-upload-blazor.Client.props" />
+</Project>

@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|d:\\azure\\largefileuploadusingazureblogstorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4749CDB6-207A-4E20-B569-2F2EC7BB9B71}|azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\azure-blob-upload-blazor.Client.csproj|d:\\azure\\largefileuploadusingazureblogstorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4749CDB6-207A-4E20-B569-2F2EC7BB9B71}|azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\azure-blob-upload-blazor.Client.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4749CDB6-207A-4E20-B569-2F2EC7BB9B71}|azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\azure-blob-upload-blazor.Client.csproj|D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4749CDB6-207A-4E20-B569-2F2EC7BB9B71}|azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\azure-blob-upload-blazor.Client.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\components\\controls\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor\\components\\controls\\upload.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70631DAB-3CFA-4C7E-A23F-DE67B6D744CF}|azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj|solutionrelative:azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e77209ba-064a-4625-b8ce-dfd1d7967cd1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T18:58:18.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\_Imports.razor",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\_Imports.razor",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T18:53:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\Program.cs",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\Program.cs",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:53:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T18:53:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Upload.razor",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Controls\\Upload.razor",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Controls\\Upload.razor",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Controls\\Upload.razor",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Components\\Controls\\Upload.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T18:53:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Program.cs",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Program.cs",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\Program.cs",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:52:43.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "azure-blob-upload-blazor",
+              "DocumentMoniker": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj",
+              "RelativeDocumentMoniker": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj",
+              "ToolTip": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj",
+              "RelativeToolTip": "azure-blob-upload-blazor\\azure-blob-upload-blazor\\azure-blob-upload-blazor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T18:52:38.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

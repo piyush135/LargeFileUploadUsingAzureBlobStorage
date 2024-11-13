@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\azure-blob-upload-blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\azure-blob-upload-blazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\fonts.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts.svg"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\bootstrap\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\bootstrap\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\Azure\\LargeFileUploadUsingAzureBlogStorage\\azure-blob-upload-blazor\\azure-blob-upload-blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.azure-blob-upload-blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.azure-blob-upload-blazor.props",
+      "PackagePath": "build\\azure-blob-upload-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.azure-blob-upload-blazor.props",
+      "PackagePath": "buildMultiTargeting\\azure-blob-upload-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.azure-blob-upload-blazor.props",
+      "PackagePath": "buildTransitive\\azure-blob-upload-blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
